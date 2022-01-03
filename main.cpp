@@ -1,13 +1,15 @@
 #include <iostream>
-#include "Dog.h"
+
+#include "AdjMatrix.h"
 using namespace std;
 
 
 int main() {
+      AdjMatrix myMatrix(200);
+      myMatrix.changeDistance(2, 2, 2002);
+      double dis = myMatrix.distanceBetween(2, 2);
+      cout << dis;
       
-      Dog mydog(2);
-      int a = mydog.getAge();
-      cout << a << endl;
 
 
       return 0;
