@@ -1,19 +1,8 @@
-// #include <iostream>
 
-// #include "AdjMatrix.h"
-// using namespace std;
-
-
-// int main() {
-//       AdjMatrix myMatrix(200);
-//       myMatrix.changeDistance(2, 2, 2002);
-//       double dis = myMatrix.distanceBetween(2, 2);
-//       cout << dis;
-      
-
-
-//       return 0;
-// }
+// The simulation of Beijing Railway System is the final project of my 
+// Data Structure (CS225) course in Fall 2021 semester 
+// at the University of Illinois at Urbana-Champaign.
+// Thanks to my co-workers: Xu Gao, Shijie Zhang and Sihan Chen
 
 
 #include <iostream>
@@ -34,12 +23,15 @@
  * @copyright Copyright (c) 2021
  * 
  */
+
+
+
+
 // #include "jsoncpp/include/json/reader.h"
 // #include "jsoncpp/include/json/value.h"
 
 #include "AdjMatrix.h"
 
-#include<stdio.h>
 
 using std::string;
 using std::cout;
