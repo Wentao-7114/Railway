@@ -83,30 +83,30 @@ CMakeFiles/my_Railway.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_Railway.dir/main.cpp.s"
 	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/Railway/main.cpp -o CMakeFiles/my_Railway.dir/main.cpp.s
 
-CMakeFiles/my_Railway.dir/Dog.cpp.obj: CMakeFiles/my_Railway.dir/flags.make
-CMakeFiles/my_Railway.dir/Dog.cpp.obj: ../Dog.cpp
-CMakeFiles/my_Railway.dir/Dog.cpp.obj: CMakeFiles/my_Railway.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:/Railway/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/my_Railway.dir/Dog.cpp.obj"
-	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_Railway.dir/Dog.cpp.obj -MF CMakeFiles/my_Railway.dir/Dog.cpp.obj.d -o CMakeFiles/my_Railway.dir/Dog.cpp.obj -c D:/Railway/Dog.cpp
+CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj: CMakeFiles/my_Railway.dir/flags.make
+CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj: ../AdjMatrix.cpp
+CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj: CMakeFiles/my_Railway.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:/Railway/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj"
+	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj -MF CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj.d -o CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj -c D:/Railway/AdjMatrix.cpp
 
-CMakeFiles/my_Railway.dir/Dog.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_Railway.dir/Dog.cpp.i"
-	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:/Railway/Dog.cpp > CMakeFiles/my_Railway.dir/Dog.cpp.i
+CMakeFiles/my_Railway.dir/AdjMatrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_Railway.dir/AdjMatrix.cpp.i"
+	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:/Railway/AdjMatrix.cpp > CMakeFiles/my_Railway.dir/AdjMatrix.cpp.i
 
-CMakeFiles/my_Railway.dir/Dog.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_Railway.dir/Dog.cpp.s"
-	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/Railway/Dog.cpp -o CMakeFiles/my_Railway.dir/Dog.cpp.s
+CMakeFiles/my_Railway.dir/AdjMatrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_Railway.dir/AdjMatrix.cpp.s"
+	D:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/Railway/AdjMatrix.cpp -o CMakeFiles/my_Railway.dir/AdjMatrix.cpp.s
 
 # Object files for target my_Railway
 my_Railway_OBJECTS = \
 "CMakeFiles/my_Railway.dir/main.cpp.obj" \
-"CMakeFiles/my_Railway.dir/Dog.cpp.obj"
+"CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj"
 
 # External object files for target my_Railway
 my_Railway_EXTERNAL_OBJECTS =
 
 my_Railway.exe: CMakeFiles/my_Railway.dir/main.cpp.obj
-my_Railway.exe: CMakeFiles/my_Railway.dir/Dog.cpp.obj
+my_Railway.exe: CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj
 my_Railway.exe: CMakeFiles/my_Railway.dir/build.make
 my_Railway.exe: CMakeFiles/my_Railway.dir/linklibs.rsp
 my_Railway.exe: CMakeFiles/my_Railway.dir/objects1.rsp

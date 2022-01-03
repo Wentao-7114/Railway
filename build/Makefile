@@ -129,29 +129,29 @@ my_Railway/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/build
 .PHONY : my_Railway/fast
 
-Dog.obj: Dog.cpp.obj
-.PHONY : Dog.obj
+AdjMatrix.obj: AdjMatrix.cpp.obj
+.PHONY : AdjMatrix.obj
 
 # target to build an object file
-Dog.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/Dog.cpp.obj
-.PHONY : Dog.cpp.obj
+AdjMatrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj
+.PHONY : AdjMatrix.cpp.obj
 
-Dog.i: Dog.cpp.i
-.PHONY : Dog.i
+AdjMatrix.i: AdjMatrix.cpp.i
+.PHONY : AdjMatrix.i
 
 # target to preprocess a source file
-Dog.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/Dog.cpp.i
-.PHONY : Dog.cpp.i
+AdjMatrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/AdjMatrix.cpp.i
+.PHONY : AdjMatrix.cpp.i
 
-Dog.s: Dog.cpp.s
-.PHONY : Dog.s
+AdjMatrix.s: AdjMatrix.cpp.s
+.PHONY : AdjMatrix.s
 
 # target to generate assembly for a file
-Dog.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/Dog.cpp.s
-.PHONY : Dog.cpp.s
+AdjMatrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_Railway.dir/build.make CMakeFiles/my_Railway.dir/AdjMatrix.cpp.s
+.PHONY : AdjMatrix.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -186,9 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... my_Railway"
-	@echo "... Dog.obj"
-	@echo "... Dog.i"
-	@echo "... Dog.s"
+	@echo "... AdjMatrix.obj"
+	@echo "... AdjMatrix.i"
+	@echo "... AdjMatrix.s"
 	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"

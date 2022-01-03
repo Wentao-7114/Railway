@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_Railway.dir/Dog.cpp.obj"
-  "CMakeFiles/my_Railway.dir/Dog.cpp.obj.d"
+  "CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj"
+  "CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj.d"
   "CMakeFiles/my_Railway.dir/main.cpp.obj"
   "CMakeFiles/my_Railway.dir/main.cpp.obj.d"
   "libmy_Railway.dll.a"

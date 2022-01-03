@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Railway/Dog.cpp" "CMakeFiles/my_Railway.dir/Dog.cpp.obj" "gcc" "CMakeFiles/my_Railway.dir/Dog.cpp.obj.d"
+  "D:/Railway/AdjMatrix.cpp" "CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj" "gcc" "CMakeFiles/my_Railway.dir/AdjMatrix.cpp.obj.d"
   "D:/Railway/main.cpp" "CMakeFiles/my_Railway.dir/main.cpp.obj" "gcc" "CMakeFiles/my_Railway.dir/main.cpp.obj.d"
   )
 
