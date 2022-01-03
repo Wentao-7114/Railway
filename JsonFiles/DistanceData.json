@@ -1,0 +1,2475 @@
+{
+      "Distance" : [
+          {
+              "firstStation" : "Pingguo Yuan",
+              "secondStation" : "Gucheng",
+              "distance" : 2606,
+              "line" : "1"
+          },
+          {
+            "firstStation" : "Gucheng",
+            "secondStation" : "Bajiao Amusement Park",
+            "distance" : 1921,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Bajiao Amusement Park",
+            "secondStation" : "Babaoshan",
+            "distance" : 1953,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Babaoshan",
+            "secondStation" : "Yuquan Lu",
+            "distance" : 1479,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Yuquan Lu",
+            "secondStation" : "Wukesong",
+            "distance" : 1810,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Wukesong",
+            "secondStation" : "Wanshou Lu",
+            "distance" : 1778,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Wanshou Lu",
+            "secondStation" : "Gongzhufen",
+            "distance" : 1313,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Gongzhufen",
+            "secondStation" : "Military Museum",
+            "distance" : 1172,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Military Museum",
+            "secondStation" : "Muxidi",
+            "distance" : 1166,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Muxidi",
+            "secondStation" : "Nanlishi Lu",
+            "distance" : 1291,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Nanlishi Lu",
+            "secondStation" : "Fuxing Men",
+            "distance" : 424,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Fuxing Men",
+            "secondStation" : "Xidan",
+            "distance" : 1590,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Xidan",
+            "secondStation" : "Tian'anmen Xi (W)",
+            "distance" : 1217,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Tian'anmen Xi (W)",
+            "secondStation" : "Tian'anmen Dong (E)",
+            "distance" : 925,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Tian'anmen Dong (E)",
+            "secondStation" : "Wangfujing",
+            "distance" : 852,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Wangfujing",
+            "secondStation" : "Dongdan",
+            "distance" : 774,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Dongdan",
+            "secondStation" : "Jianguo Men",
+            "distance" : 1230,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Jianguo Men",
+            "secondStation" : "Yong'an Li",
+            "distance" : 1377,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Yong'an Li",
+            "secondStation" : "Guomao",
+            "distance" : 790,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Guomao",
+            "secondStation" : "Dawang Lu",
+            "distance" : 1385,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Dawang Lu",
+            "secondStation" : "Sihui",
+            "distance" : 1673,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Sihui",
+            "secondStation" : "Sihui Dong (E)",
+            "distance" : 1714,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Sihui Dong (E)",
+            "secondStation" : "Gaobeidian",
+            "distance" : 1375,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Gaobeidian",
+            "secondStation" : "Communication Univ. of China",
+            "distance" : 2002,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Communication Univ. of China",
+            "secondStation" : "Shuang Qiao",
+            "distance" : 1894,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Shuang Qiao",
+            "secondStation" : "Guaanzhuang",
+            "distance" : 1912,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Guaanzhuang",
+            "secondStation" : "Bali Qiao",
+            "distance" : 1763,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Bali Qiao",
+            "secondStation" : "Tongzhou Beiyuan",
+            "distance" : 1700,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Tongzhou Beiyuan",
+            "secondStation" : "Guoyuan",
+            "distance" : 1465,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Guoyuan",
+            "secondStation" : "Jiukeshu",
+            "distance" : 990,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Jiukeshu",
+            "secondStation" : "Liyuan",
+            "distance" : 1225,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Liyuan",
+            "secondStation" : "Linheli",
+            "distance" : 1257,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Linheli",
+            "secondStation" : "Tu Qiao",
+            "distance" : 776,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Tu Qiao",
+            "secondStation" : "Huazhuang",
+            "distance" : 2238,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Huazhuang",
+            "secondStation" : "Universal Resort",
+            "distance" : 1863,
+            "line" : "1"
+          },
+          {
+            "firstStation" : "Jishui Tan",
+            "secondStation" : "Xizhi Men",
+            "distance" : 1899,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Xizhi Men",
+            "secondStation" : "Chegongzhuang",
+            "distance" : 909,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Chegongzhuang",
+            "secondStation" : "Fucheng Men",
+            "distance" : 960,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Fucheng Men",
+            "secondStation" : "Fuxing Men",
+            "distance" : 1832,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Fuxing Men",
+            "secondStation" : "Changchun Jie",
+            "distance" : 1234,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Changchun Jie",
+            "secondStation" : "Xuanwu Men",
+            "distance" : 929,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Xuanwu Men",
+            "secondStation" : "Heping Men",
+            "distance" : 851,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Heping Men",
+            "secondStation" : "Qian Men",
+            "distance" : 1171,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Qian Men",
+            "secondStation" : "Chongwen Men",
+            "distance" : 1634,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Chongwen Men",
+            "secondStation" : "Beijing Railway Station",
+            "distance" : 1023,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Beijing Railway Station",
+            "secondStation" : "Jianguo Men",
+            "distance" : 945,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Jianguo Men",
+            "secondStation" : "Chaoyang Men",
+            "distance" : 1763,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Chaoyang Men",
+            "secondStation" : "Dongsi Shitiao",
+            "distance" : 1027,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Dongsi Shitiao",
+            "secondStation" : "Dongzhi Men",
+            "distance" : 824,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Dongzhi Men",
+            "secondStation" : "Yonghegong Lama Temple",
+            "distance" : 2228,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Yonghegong Lama Temple",
+            "secondStation" : "Anding Men",
+            "distance" : 794,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Anding Men",
+            "secondStation" : "Gulou Dajie",
+            "distance" : 1237,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Gulou Dajie",
+            "secondStation" : "Jishui Tan",
+            "distance" : 1766,
+            "line" : "2"
+          },
+          {
+            "firstStation" : "Anheqiao Bei (N)",
+            "secondStation" : "Beigongmen",
+            "distance" : 1363,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Beigongmen",
+            "secondStation" : "Xi Yuan",
+            "distance" : 1251,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xi Yuan",
+            "secondStation" : "Yuanmingyuan Park",
+            "distance" : 1672,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Yuanmingyuan Park",
+            "secondStation" : "Peking Univ. East Gate",
+            "distance" : 1295,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Peking Univ. East Gate",
+            "secondStation" : "Zhongguancun",
+            "distance" : 887,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Zhongguancun",
+            "secondStation" : "Haidian Huangzhuang",
+            "distance" : 900,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Haidian Huangzhuang",
+            "secondStation" : "Renmin Univ.",
+            "distance" : 1063,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Renmin Univ.",
+            "secondStation" : "Weigongcun",
+            "distance" : 1051,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Weigongcun",
+            "secondStation" : "National Library",
+            "distance" : 1658,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "National Library",
+            "secondStation" : "Beijing Zoo",
+            "distance" : 1517,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Beijing Zoo",
+            "secondStation" : "Xizhi Men",
+            "distance" : 1441,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xizhi Men",
+            "secondStation" : "Xinjie Kou",
+            "distance" : 1025,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xinjie Kou",
+            "secondStation" : "Ping'an Li",
+            "distance" : 1100,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Ping'an Li",
+            "secondStation" : "Xisi",
+            "distance" : 1100,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xisi",
+            "secondStation" : "Lingjing Hutong",
+            "distance" : 869,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Lingjing Hutong",
+            "secondStation" : "Xidan",
+            "distance" : 1011,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xidan",
+            "secondStation" : "Xuanwu Men",
+            "distance" : 815,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xuanwu Men",
+            "secondStation" : "Caishi Kou",
+            "distance" : 1152,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xuanwu Men",
+            "secondStation" : "Caishi Kou",
+            "distance" : 1152,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Caishi Kou",
+            "secondStation" : "Taoranting",
+            "distance" : 1200,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Taoranting",
+            "secondStation" : "Beijing South Railway Station",
+            "distance" : 1643,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Beijing South Railway Station",
+            "secondStation" : "Majiapu",
+            "distance" : 1480,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Majiapu",
+            "secondStation" : "Jiaomen Xi (W)",
+            "distance" : 827,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Jiaomen Xi (W)",
+            "secondStation" : "Gongyi Xiqiao",
+            "distance" : 989,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Gongyi Xiqiao",
+            "secondStation" : "Xin Gong",
+            "distance" : 2798,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xin Gong",
+            "secondStation" : "Xihong Men",
+            "distance" : 5102,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Xihong Men",
+            "secondStation" : "Gaomidian Bei (N)",
+            "distance" : 1810,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Gaomidian Bei (N)",
+            "secondStation" : "Gaomidian Nan (S)",
+            "distance" : 1128,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Gaomidian Nan (S)",
+            "secondStation" : "Zaoyuan",
+            "distance" : 1096,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Zaoyuan",
+            "secondStation" : "Qingyuan Lu",
+            "distance" : 1200,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Qingyuan Lu",
+            "secondStation" : "Huangcun Xidajie",
+            "distance" : 1214,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Huangcun Xidajie",
+            "secondStation" : "Huangcun Railway Station",
+            "distance" : 987,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Huangcun Railway Station",
+            "secondStation" : "Yihezhuang",
+            "distance" : 2035,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Yihezhuang",
+            "secondStation" : "Biomedical Base",
+            "distance" : 2918,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Biomedical Base",
+            "secondStation" : "Tiangong Yuan",
+            "distance" : 1811,
+            "line" : "4"
+          },
+          {
+            "firstStation" : "Tiantongyuan Bei (N)",
+            "secondStation" : "Tiantong Yuan",
+            "distance" : 939,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Tiantong Yuan",
+            "secondStation" : "Tiantongyuan Nan (S)",
+            "distance" : 965,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Tiantongyuan Nan (S)",
+            "secondStation" : "Lishui Qiao",
+            "distance" : 1544,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Lishui Qiao",
+            "secondStation" : "Lishuiqiao Nan (S)",
+            "distance" : 1305,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Lishuiqiao Nan (S)",
+            "secondStation" : "Beiyuanlu Bei (N)",
+            "distance" : 1286,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Beiyuanlu Bei (N)",
+            "secondStation" : "Datunlu Dong (E)",
+            "distance" : 3000,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Datunlu Dong (E)",
+            "secondStation" : "Huixin Xijie Beikou",
+            "distance" : 1838,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Huixin Xijie Beikou",
+            "secondStation" : "Huixin Xijie Nankou",
+            "distance" : 1122,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Huixin Xijie Nankou",
+            "secondStation" : "Heping Xiqiao",
+            "distance" : 1025,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Heping Xiqiao",
+            "secondStation" : "Hepingli Beijie",
+            "distance" : 1059,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Hepingli Beijie",
+            "secondStation" : "Yonghegong Lama Temple",
+            "distance" : 1151,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Yonghegong Lama Temple",
+            "secondStation" : "Beixinqiao",
+            "distance" : 866,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Beixinqiao",
+            "secondStation" : "Zhangzizhong Lu",
+            "distance" : 791,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Zhangzizhong Lu",
+            "secondStation" : "Dongsi",
+            "distance" : 1016,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Dongsi",
+            "secondStation" : "Dengshi Kou",
+            "distance" : 848,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Dengshi Kou",
+            "secondStation" : "Dongdan",
+            "distance" : 945,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Dongdan",
+            "secondStation" : "Chongwen Men",
+            "distance" : 821,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Chongwen Men",
+            "secondStation" : "Ciqi Kou",
+            "distance" : 876,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Ciqi Kou",
+            "secondStation" : "Temple of Heaven East Gate",
+            "distance" : 1183,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Temple of Heaven East Gate",
+            "secondStation" : "Puhuangyu",
+            "distance" : 1900,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Puhuangyu",
+            "secondStation" : "Liujiayao",
+            "distance" : 905,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Liujiayao",
+            "secondStation" : "Songjiazhuang",
+            "distance" : 1670,
+            "line" : "5"
+          },
+          {
+            "firstStation" : "Jin'an Qiao",
+            "secondStation" : "Yangzhuang",
+            "distance" : 2277,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Yangzhuang",
+            "secondStation" : "Xihuangcun",
+            "distance" : 1792,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Xihuangcun",
+            "secondStation" : "Liaogongzhuang",
+            "distance" : 1794,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Liaogongzhuang",
+            "secondStation" : "Tiancun",
+            "distance" : 2276,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Tiancun",
+            "secondStation" : "Haidian Wuluju",
+            "distance" : 2140,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Haidian Wuluju",
+            "secondStation" : "Cishou Si",
+            "distance" : 1508,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Cishou Si",
+            "secondStation" : "Huayuan Qiao",
+            "distance" : 1431,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Huayuan Qiao",
+            "secondStation" : "Baishiqiao Nan (S)",
+            "distance" : 1166,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Baishiqiao Nan (S)",
+            "secondStation" : "Chegongzhuang Xi (W)",
+            "distance" : 1664,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Chegongzhuang Xi (W)",
+            "secondStation" : "Chegongzhuang",
+            "distance" : 887,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Chegongzhuang",
+            "secondStation" : "Ping'an Li",
+            "distance" : 1443,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Ping'an Li",
+            "secondStation" : "Beihai Bei (N)",
+            "distance" : 1321,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Beihai Bei (N)",
+            "secondStation" : "Nanluogu Xiang",
+            "distance" : 1349,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Nanluogu Xiang",
+            "secondStation" : "Dongsi",
+            "distance" : 1937,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Dongsi",
+            "secondStation" : "Chaoyang Men",
+            "distance" : 1399,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Chaoyang Men",
+            "secondStation" : "Dongdaqiao",
+            "distance" : 1668,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Dongdaqiao",
+            "secondStation" : "Hujialou",
+            "distance" : 845,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Hujialou",
+            "secondStation" : "Jintai Lu",
+            "distance" : 1450,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Jintai Lu",
+            "secondStation" : "Shilipu",
+            "distance" : 2036,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Shilipu",
+            "secondStation" : "Qingnian Lu",
+            "distance" : 1282,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Qingnian Lu",
+            "secondStation" : "Dalianpo",
+            "distance" : 3999,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Dalianpo",
+            "secondStation" : "Huangqu",
+            "distance" : 1238,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Huangqu",
+            "secondStation" : "Changying",
+            "distance" : 1854,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Changying",
+            "secondStation" : "Caofang",
+            "distance" : 1405,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Caofang",
+            "secondStation" : "Wuzi Xueyuan Lu",
+            "distance" : 2115,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Wuzi Xueyuan Lu",
+            "secondStation" : "Tongzhou Beiguan",
+            "distance" : 2557,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Tongzhou Beiguan",
+            "secondStation" : "Tongyuan Men",
+            "distance" : 1468,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Tongyuan Men",
+            "secondStation" : "Beiyunhe Xi (W)",
+            "distance" : 1543,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Beiyunhe Xi (W)",
+            "secondStation" : "Beiyunhe Dong (E)",
+            "distance" : 1599,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Beiyunhe Dong (E)",
+            "secondStation" : "Haojia Fu",
+            "distance" : 929,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Haojia Fu",
+            "secondStation" : "Dongxia Yuan",
+            "distance" : 1346,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Dongxia Yuan",
+            "secondStation" : "Lucheng",
+            "distance" : 1194,
+            "line" : "6"
+          },
+          {
+            "firstStation" : "Beijing West Railway Station",
+            "secondStation" : "Wanzi",
+            "distance" : 935,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Wanzi",
+            "secondStation" : "Daguanying",
+            "distance" : 734,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Daguanying",
+            "secondStation" : "Guang'anmen Nei",
+            "distance" : 1874,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Guang'anmen Nei",
+            "secondStation" : "Caishi Kou",
+            "distance" : 1374,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Caishi Kou",
+            "secondStation" : "Hufangqiao",
+            "distance" : 885,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Hufangqiao",
+            "secondStation" : "Zhushi Kou",
+            "distance" : 1205,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Zhushi Kou",
+            "secondStation" : "Qiaowan",
+            "distance" : 869,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Qiaowan",
+            "secondStation" : "Ciqi Kou",
+            "distance" : 1016,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Ciqi Kou",
+            "secondStation" : "Guangqumen Nei",
+            "distance" : 1138,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Guangqumen Nei",
+            "secondStation" : "Guangqumen Wai",
+            "distance" : 1332,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Guangqumen Wai",
+            "secondStation" : "Shuangjing",
+            "distance" : 1241,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Shuangjing",
+            "secondStation" : "Jiulongshan",
+            "distance" : 1311,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Jiulongshan",
+            "secondStation" : "Dajiaoting",
+            "distance" : 781,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Dajiaoting",
+            "secondStation" : "Baiziwan",
+            "distance" : 865,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Baiziwan",
+            "secondStation" : "Huagong",
+            "distance" : 903,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Huagong",
+            "secondStation" : "Nanlouzi Zhuang",
+            "distance" : 1464,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Nanlouzi Zhuang",
+            "secondStation" : "Happy Valley",
+            "distance" : 906,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Happy Valley",
+            "secondStation" : "Fatou",
+            "distance" : 1679,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Fatou",
+            "secondStation" : "Shuanghe",
+            "distance" : 1304,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Shuanghe",
+            "secondStation" : "Jiaohua Chang",
+            "distance" : 1021,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Jiaohua Chang",
+            "secondStation" : "Huangchang",
+            "distance" : 1678,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Huangchang",
+            "secondStation" : "Langxinzhuang",
+            "distance" : 1752,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Langxinzhuang",
+            "secondStation" : "Heizhuanghu",
+            "distance" : 2517,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Heizhuanghu",
+            "secondStation" : "Wansheng Xi (W)",
+            "distance" : 2961,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Wansheng Xi (W)",
+            "secondStation" : "Wansheng Dong (E)",
+            "distance" : 2110,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Wansheng Dong (E)",
+            "secondStation" : "Qunfang",
+            "distance" : 1160,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Qunfang",
+            "secondStation" : "Gaoloujin",
+            "distance" : 1195,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Gaoloujin",
+            "secondStation" : "Huazhuang",
+            "distance" : 1425,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Huazhuang",
+            "secondStation" : "Universal Resort",
+            "distance" : 1769,
+            "line" : "7"
+          },
+          {
+            "firstStation" : "Zhuxinzhuang",
+            "secondStation" : "Yuzhi Lu",
+            "distance" : 2318,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Yuzhi Lu",
+            "secondStation" : "Pingxi Fu",
+            "distance" : 1985,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Pingxi Fu",
+            "secondStation" : "Huilongguan Dogdajie",
+            "distance" : 2056,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Huilongguan Dogdajie",
+            "secondStation" : "Huoying",
+            "distance" : 1114,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Huoying",
+            "secondStation" : "Yuxin",
+            "distance" : 1894,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Yuxin",
+            "secondStation" : "Xixiao Kou",
+            "distance" : 1543,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Xixiao Kou",
+            "secondStation" : "Yongtaizhuang",
+            "distance" : 1041,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Yongtaizhuang",
+            "secondStation" : "Lincui Qiao",
+            "distance" : 2553,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Lincui Qiao",
+            "secondStation" : "Forest Part South Gate",
+            "distance" : 2555,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Forest Part South Gate",
+            "secondStation" : "Olympic Park",
+            "distance" : 1016,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Olympic Park",
+            "secondStation" : "Olympic Sports Center",
+            "distance" : 1667,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Olympic Sports Center",
+            "secondStation" : "Beitucheng",
+            "distance" : 900,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Beitucheng",
+            "secondStation" : "Anhua Qiao",
+            "distance" : 1018,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Anhua Qiao",
+            "secondStation" : "Andeli Beijie",
+            "distance" : 1274,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Andeli Beijie",
+            "secondStation" : "Gulou Dajie",
+            "distance" : 1083,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Gulou Dajie",
+            "secondStation" : "Shichahai",
+            "distance" : 1188,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Shichahai",
+            "secondStation" : "Nanluogu Xiang",
+            "distance" : 902,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Nanluogu Xiang",
+            "secondStation" : "National Art Museum",
+            "distance" : 1437,
+            "line" : "8N"
+          },
+          {
+            "firstStation" : "Zhushi Kou",
+            "secondStation" : "Tianqiao",
+            "distance" : 881,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Tianqiao",
+            "secondStation" : "Yongdingmen Wai",
+            "distance" : 1800,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Yongdingmen Wai",
+            "secondStation" : "Muxi Yuan",
+            "distance" : 741,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Muxi Yuan",
+            "secondStation" : "Haihutun",
+            "distance" : 845,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Haihutun",
+            "secondStation" : "Dahongmen Nan (S)",
+            "distance" : 1678,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Dahongmen Nan (S)",
+            "secondStation" : "Heyi",
+            "distance" : 2446,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Heyi",
+            "secondStation" : "Donggaodi",
+            "distance" : 1537,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Donggaodi",
+            "secondStation" : "Huojian Wanyuan",
+            "distance" : 1215,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Huojian Wanyuan",
+            "secondStation" : "Wufutang",
+            "distance" : 1684,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Wufutang",
+            "secondStation" : "Demao",
+            "distance" : 2076,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "Demao",
+            "secondStation" : "Yinghai",
+            "distance" : 1510,
+            "line" : "8S"
+          },
+          {
+            "firstStation" : "National Library",
+            "secondStation" : "Baishiqiao Nan (S)",
+            "distance" : 1096,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Baishiqiao Nan (S)",
+            "secondStation" : "Baiduizi",
+            "distance" : 943,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Baiduizi",
+            "secondStation" : "Military Museum",
+            "distance" : 1912,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Military Museum",
+            "secondStation" : "Beijing West Railway Station",
+            "distance" : 1398,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Beijing West Railway Station",
+            "secondStation" : "Liuliqiao Dong (E)",
+            "distance" : 1170,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Liuliqiao Dong (E)",
+            "secondStation" : "Liuli Qiao",
+            "distance" : 1309,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Liuli Qiao",
+            "secondStation" : "Qilizhuang",
+            "distance" : 1778,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Qilizhuang",
+            "secondStation" : "Fengtai Dongdajie",
+            "distance" : 1325,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Fengtai Dongdajie",
+            "secondStation" : "Fengtai Nanlu",
+            "distance" : 1585,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Fengtai Nanlu",
+            "secondStation" : "Keyi Lu",
+            "distance" : 980,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Keyi Lu",
+            "secondStation" : "Fengtai Science Park",
+            "distance" : 788,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Fengtai Science Park",
+            "secondStation" : "Guogongzhuang",
+            "distance" : 1347,
+            "line" : "9"
+          },
+          {
+            "firstStation" : "Huoqiying",
+            "secondStation" : "Bagou",
+            "distance" : 1495,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Bagou",
+            "secondStation" : "Suzhou Jie",
+            "distance" : 1110,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Suzhou Jie",
+            "secondStation" : "Haidian Huangzhuang",
+            "distance" : 950,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Haidian Huangzhuang",
+            "secondStation" : "Zhichun Li",
+            "distance" : 975,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Zhichun Li",
+            "secondStation" : "Zhichun Lu",
+            "distance" : 1058,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Zhichun Lu",
+            "secondStation" : "Xitucheng",
+            "distance" : 1101,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Xitucheng",
+            "secondStation" : "Mudan Yuan",
+            "distance" : 1330,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Mudan Yuan",
+            "secondStation" : "Jiande Men",
+            "distance" : 973,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Jiande Men",
+            "secondStation" : "Beitucheng",
+            "distance" : 1100,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Beitucheng",
+            "secondStation" : "Anzhen Men",
+            "distance" : 1020,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Anzhen Men",
+            "secondStation" : "Huixin Xijie Nankou",
+            "distance" : 982,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Huixin Xijie Nankou",
+            "secondStation" : "Shaoyaoju",
+            "distance" : 1712,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Shaoyaoju",
+            "secondStation" : "Taiyanggong",
+            "distance" : 1003,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Taiyanggong",
+            "secondStation" : "Sanyuan Qiao",
+            "distance" : 1759,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Sanyuan Qiao",
+            "secondStation" : "Liangma Qiao",
+            "distance" : 1506,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Liangma Qiao",
+            "secondStation" : "Agricultural Exhibition Center",
+            "distance" : 914,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Agricultural Exhibition Center",
+            "secondStation" : "Tuanjiehu",
+            "distance" : 853,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Tuanjiehu",
+            "secondStation" : "Hujialou",
+            "distance" : 1149,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Hujialou",
+            "secondStation" : "Jintai Xizhao",
+            "distance" : 734,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Jintai Xizhao",
+            "secondStation" : "Guomao",
+            "distance" : 835,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Guomao",
+            "secondStation" : "Shuangjing",
+            "distance" : 1759,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Shuangjing",
+            "secondStation" : "Jinsong",
+            "distance" : 1006,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Jinsong",
+            "secondStation" : "Panjia Yuan",
+            "distance" : 1021,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Panjia Yuan",
+            "secondStation" : "Shilihe",
+            "distance" : 1097,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Shilihe",
+            "secondStation" : "Fenzhong Si",
+            "distance" : 1804,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Fenzhong Si",
+            "secondStation" : "Chengshou Si",
+            "distance" : 1058,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Chengshou Si",
+            "secondStation" : "Songjiazhuang",
+            "distance" : 1677,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Songjiazhuang",
+            "secondStation" : "Dahongmen",
+            "distance" : 1244,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Dahongmen",
+            "secondStation" : "Jiaomen Dong (E)",
+            "distance" : 1130,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Jiaomen Dong (E)",
+            "secondStation" : "Caoqiao",
+            "distance" : 1688,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Caoqiao",
+            "secondStation" : "Jijiamiao",
+            "distance" : 1547,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Jijiamiao",
+            "secondStation" : "Shoujingmao",
+            "distance" : 1143,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Shoujingmao",
+            "secondStation" : "Fengtai Railway Station",
+            "distance" : 1717,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Fengtai Railway Station",
+            "secondStation" : "Niwa",
+            "distance" : 954,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Niwa",
+            "secondStation" : "Xiju",
+            "distance" : 749,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Xiju",
+            "secondStation" : "Liuli Qiao",
+            "distance" : 1584,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Liuli Qiao",
+            "secondStation" : "Lianhua Qiao",
+            "distance" : 2392,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Lianhua Qiao",
+            "secondStation" : "Gongzhufen",
+            "distance" : 1016,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Gongzhufen",
+            "secondStation" : "Xidiaoyutai",
+            "distance" : 2386,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Xidiaoyutai",
+            "secondStation" : "Cishou Si",
+            "distance" : 1214,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Cishou Si",
+            "secondStation" : "Chedaogou",
+            "distance" : 1590,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Chedaogou",
+            "secondStation" : "Changchun Qiao",
+            "distance" : 1205,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Changchun Qiao",
+            "secondStation" : "Huoqiying",
+            "distance" : 961,
+            "line" : "10"
+          },
+          {
+            "firstStation" : "Xizhi Men",
+            "secondStation" : "Dazhong Si",
+            "distance" : 2839,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Dazhong Si",
+            "secondStation" : "Zhichun Lu",
+            "distance" : 1206,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Zhichun Lu",
+            "secondStation" : "Wudao Kou",
+            "distance" : 1829,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Wudao Kou",
+            "secondStation" : "Shangdi",
+            "distance" : 4866,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Shangdi",
+            "secondStation" : "Qinghe Railway Station",
+            "distance" : 1036,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Qinghe Railway Station",
+            "secondStation" : "Xi'erqi",
+            "distance" : 1545,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Xi'erqi",
+            "secondStation" : "Longze",
+            "distance" : 3623,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Longze",
+            "secondStation" : "Huilong Guan",
+            "distance" : 1423,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Huilong Guan",
+            "secondStation" : "Huoying",
+            "distance" : 2110,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Huoying",
+            "secondStation" : "Lishui Qiao",
+            "distance" : 4785,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Lishui Qiao",
+            "secondStation" : "Bei Yuan",
+            "distance" : 2272,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Bei Yuan",
+            "secondStation" : "Wangjing Xi (W)",
+            "distance" : 6720,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Wangjing Xi (W)",
+            "secondStation" : "Guangxi Men",
+            "distance" : 1110,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Guangxi Men",
+            "secondStation" : "Liufang",
+            "distance" : 1135,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Liufang",
+            "secondStation" : "Dongzhi Men",
+            "distance" : 1769,
+            "line" : "13"
+          },
+          {
+            "firstStation" : "Zhangguozhuang",
+            "secondStation" : "Garden Expo Park",
+            "distance" : 1345,
+            "line" : "14W"
+          },
+          {
+            "firstStation" : "Garden Expo Park",
+            "secondStation" : "Dawayao",
+            "distance" : 4073,
+            "line" : "14W"
+          },
+          {
+            "firstStation" : "Dawayao",
+            "secondStation" : "Guozhuangzi",
+            "distance" : 1236,
+            "line" : "14W"
+          },
+          {
+            "firstStation" : "Guozhuangzi",
+            "secondStation" : "Dajing",
+            "distance" : 2044,
+            "line" : "14W"
+          },
+          {
+            "firstStation" : "Dajing",
+            "secondStation" : "Qilizhuang",
+            "distance" : 1579,
+            "line" : "14W"
+          },
+          {
+            "firstStation" : "Qilizhuang",
+            "secondStation" : "Xiju",
+            "distance" : 845,
+            "line" : "14W"
+          },
+          {
+            "firstStation" : "Beijing South Railway Station",
+            "secondStation" : "Taoran Qiao",
+            "distance" : 887,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Taoran Qiao",
+            "secondStation" : "Yongdingmen Wai",
+            "distance" : 1063,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Yongdingmen Wai",
+            "secondStation" : "Jingtai",
+            "distance" : 1119,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Jingtai",
+            "secondStation" : "Puhuangyu",
+            "distance" : 1025,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Puhuangyu",
+            "secondStation" : "Fangzhuang",
+            "distance" : 1486,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Fangzhuang",
+            "secondStation" : "Shilihe",
+            "distance" : 1618,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Shilihe",
+            "secondStation" : "Beijing Univ. of Tech. West Gate",
+            "distance" : 2423,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Beijing Univ. of Tech. West Gate",
+            "secondStation" : "Pingle Yuan",
+            "distance" : 1128,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Pingle Yuan",
+            "secondStation" : "Jiulongshan",
+            "distance" : 897,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Jiulongshan",
+            "secondStation" : "Dawang Lu",
+            "distance" : 1789,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Dawang Lu",
+            "secondStation" : "Jintai Lu",
+            "distance" : 894,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Jintai Lu",
+            "secondStation" : "Chaoyang Park",
+            "distance" : 1085,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Chaoyang Park",
+            "secondStation" : "Zaoying",
+            "distance" : 1221,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Zaoying",
+            "secondStation" : "Dongfeng Beiqiao",
+            "distance" : 2173,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Dongfeng Beiqiao",
+            "secondStation" : "Jiangtai",
+            "distance" : 1600,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Jiangtai",
+            "secondStation" : "Gaojia Yuan",
+            "distance" : 1171,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Gaojia Yuan",
+            "secondStation" : "Wangjing Nan (S)",
+            "distance" : 676,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Wangjing Nan (S)",
+            "secondStation" : "Futong",
+            "distance" : 1168,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Futong",
+            "secondStation" : "Wangjing",
+            "distance" : 903,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Wangjing",
+            "secondStation" : "Donghuqu",
+            "distance" : 1283,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Donghuqu",
+            "secondStation" : "Laiguangying",
+            "distance" : 1100,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Laiguangying",
+            "secondStation" : "Shan'gezhuang",
+            "distance" : 1364,
+            "line" : "14E"
+          },
+          {
+            "firstStation" : "Qinghua Donglu Xikou",
+            "secondStation" : "Liudao Kou",
+            "distance" : 1144,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Liudao Kou",
+            "secondStation" : "Beishatan",
+            "distance" : 1337,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Beishatan",
+            "secondStation" : "Olympic Park",
+            "distance" : 1999,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Olympic Park",
+            "secondStation" : "Anli Lu",
+            "distance" : 1368,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Anli Lu",
+            "secondStation" : "Datunlu Dong (E)",
+            "distance" : 938,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Datunlu Dong (E)",
+            "secondStation" : "Guanzhuang",
+            "distance" : 1087,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Guanzhuang",
+            "secondStation" : "Wansheng Xi (W)",
+            "distance" : 2071,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Wansheng Xi (W)",
+            "secondStation" : "Wangjing",
+            "distance" : 1758,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Wangjing",
+            "secondStation" : "Wangjing Dong (E)",
+            "distance" : 1652,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Wangjing Dong (E)",
+            "secondStation" : "Cuigezhuang",
+            "distance" : 2295,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Cuigezhuang",
+            "secondStation" : "Maquanying",
+            "distance" : 2008,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Maquanying",
+            "secondStation" : "Sunhe",
+            "distance" : 3309,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Sunhe",
+            "secondStation" : "China Int'l Exhibition Center",
+            "distance" : 3386,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "China Int'l Exhibition Center",
+            "secondStation" : "Hualikan",
+            "distance" : 1615,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Hualikan",
+            "secondStation" : "Houshayu",
+            "distance" : 3354,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Houshayu",
+            "secondStation" : "Nanfaxin",
+            "distance" : 4576,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Nanfaxin",
+            "secondStation" : "Shimen",
+            "distance" : 2712,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Shimen",
+            "secondStation" : "Shunyi",
+            "distance" : 1331,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Shunyi",
+            "secondStation" : "Fengbo",
+            "distance" : 2441,
+            "line" : "15"
+          },
+          {
+            "firstStation" : "Bei'anhe",
+            "secondStation" : "Wenyang Lu",
+            "distance" : 2653,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Wenyang Lu",
+            "secondStation" : "Daoxianghu Lu",
+            "distance" : 2310,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Daoxianghu Lu",
+            "secondStation" : "Tundian",
+            "distance" : 2352,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Tundian",
+            "secondStation" : "Yongfeng",
+            "distance" : 1961,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Yongfeng",
+            "secondStation" : "Yongfeng Nan (S)",
+            "distance" : 1315,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Yongfeng Nan (S)",
+            "secondStation" : "Xibeiwang",
+            "distance" : 2108,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Xibeiwang",
+            "secondStation" : "Malianwa",
+            "distance" : 2196,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Malianwa",
+            "secondStation" : "Nongda Nanlu",
+            "distance" : 1517,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Nongda Nanlu",
+            "secondStation" : "Xi Yuan",
+            "distance" : 2690,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Xi Yuan",
+            "secondStation" : "Wangquanhe Qiao",
+            "distance" : 1980,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Wangquanhe Qiao",
+            "secondStation" : "Suzhou Qiao",
+            "distance" : 2983,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Suzhou Qiao",
+            "secondStation" : "Wanshou Si",
+            "distance" : 1610,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Wanshou Si",
+            "secondStation" : "National Library",
+            "distance" : 1721,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "National Library",
+            "secondStation" : "Ganjia Kou",
+            "distance" : 2635,
+            "line" : "16"
+          },
+          {
+            "firstStation" : "Yancun Dong (E)",
+            "secondStation" : "Suzhuang",
+            "distance" : 2305,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Suzhuang",
+            "secondStation" : "Liangxiang Nanguan",
+            "distance" : 1331,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Suzhuang",
+            "secondStation" : "Liangxiang Univ. Town West",
+            "distance" : 1333,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Liangxiang Univ. Town West",
+            "secondStation" : "Liangxiang Univ. Town",
+            "distance" : 1739,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Liangxiang Univ. Town",
+            "secondStation" : "Liangxiang Univ. Town North",
+            "distance" : 1188,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Liangxiang Univ. Town North",
+            "secondStation" : "Guangyang Cheng",
+            "distance" : 2003,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Guangyang Cheng",
+            "secondStation" : "Libafang",
+            "distance" : 1474,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Libafang",
+            "secondStation" : "Changyang",
+            "distance" : 2150,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Changyang",
+            "secondStation" : "Daotian",
+            "distance" : 4042,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Daotian",
+            "secondStation" : "Dabaotai",
+            "distance" : 6466,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Dabaotai",
+            "secondStation" : "Guogongzhuang",
+            "distance" : 1438,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Guogongzhuang",
+            "secondStation" : "Baipengyao",
+            "distance" : 1386,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Baipengyao",
+            "secondStation" : "Huaxiang Dongqiao",
+            "distance" : 1671,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Huaxiang Dongqiao",
+            "secondStation" : "Shoujingmao",
+            "distance" : 1793,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Shoujingmao",
+            "secondStation" : "Dongguantou Nan (S)",
+            "distance" : 1138,
+            "line" : "Fangshan"
+          },
+          {
+            "firstStation" : "Changping Xishankou",
+            "secondStation" : "Ming Tombs",
+            "distance" : 1213,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Ming Tombs",
+            "secondStation" : "Changping",
+            "distance" : 3508,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Changping",
+            "secondStation" : "Changping Dongguan",
+            "distance" : 2433,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Changping Dongguan",
+            "secondStation" : "Beishaowa",
+            "distance" : 1683,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Beishaowan",
+            "secondStation" : "Nanshao",
+            "distance" : 1958,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Nanshao",
+            "secondStation" : "Shahe Univ. Park",
+            "distance" : 5357,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Shahe Univ. Park",
+            "secondStation" : "Shahe",
+            "distance" : 1964,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Shahe",
+            "secondStation" : "Gonghua Cheng",
+            "distance" : 2025,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Gonghua Cheng",
+            "secondStation" : "Zhuxinzhuang",
+            "distance" : 3799,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Zhuxinzhuang",
+            "secondStation" : "Life Science Park",
+            "distance" : 2367,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Life Science Park",
+            "secondStation" : "Xi'erqi",
+            "distance" : 5440,
+            "line" : "Changping"
+          },
+          {
+            "firstStation" : "Songjiazhuang",
+            "secondStation" : "Xiaocun",
+            "distance" : 2631,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Songjiazhuang",
+            "secondStation" : "Xiaocun",
+            "distance" : 2631,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Xiaocun",
+            "secondStation" : "Xiaohong Men",
+            "distance" : 1275,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Xiaohong Men",
+            "secondStation" : "Jiu Gong",
+            "distance" : 2366,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Jiu Gong",
+            "secondStation" : "Yizhuang Qiao",
+            "distance" : 1982,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Yizhuang Qiao",
+            "secondStation" : "Yizhuang Culture Park",
+            "distance" : 993,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Yizhuang Culture Park",
+            "secondStation" : "Wanyuan Jie",
+            "distance" : 1728,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Wanyuan Jie",
+            "secondStation" : "Rongjing Dongjie",
+            "distance" : 1090,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Rongjing Dongjie",
+            "secondStation" : "Rongchang Dongjie",
+            "distance" : 1355,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Rongchang Dongjie",
+            "secondStation" : "Tongji Nanlu",
+            "distance" : 2337,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Tongji Nanlu",
+            "secondStation" : "Jinghai Lu",
+            "distance" : 2301,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Jinghai Lu",
+            "secondStation" : "Ciqu Nan (S)",
+            "distance" : 2055,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Ciqu Nan (S)",
+            "secondStation" : "Ciqu",
+            "distance" : 1281,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Ciqu",
+            "secondStation" : "Yizhuang Railway Station",
+            "distance" : 1334,
+            "line" : "Yizhuang"
+          },
+          {
+            "firstStation" : "Yanshan",
+            "secondStation" : "Fangshan Chengguan",
+            "distance" : 2076,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Fangshan Chengguan",
+            "secondStation" : "Raole Fu",
+            "distance" : 1777,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Raole Fu",
+            "secondStation" : "Magezhuang",
+            "distance" : 984,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Magezhuang",
+            "secondStation" : "Dashihe Dong (E)",
+            "distance" : 2087,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Dashihe Dong (E)",
+            "secondStation" : "Xingcheng",
+            "distance" : 1929,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Xingcheng",
+            "secondStation" : "Yancun",
+            "distance" : 1649,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Yancun",
+            "secondStation" : "Zicaowu",
+            "distance" : 1210,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Zicaowu",
+            "secondStation" : "Yancun Dong (E)",
+            "distance" : 1541,
+            "line" : "Yanfang"
+          },
+          {
+            "firstStation" : "Shichang",
+            "secondStation" : "Xiaoyuan",
+            "distance" : 1297,
+            "line" : "S1"
+          },
+          {
+            "firstStation" : "Xiaoyuan",
+            "secondStation" : "Liyuanzhuang",
+            "distance" : 1266,
+            "line" : "S1"
+          },
+          {
+            "firstStation" : "Liyuanzhuang",
+            "secondStation" : "Shang'an",
+            "distance" : 1044,
+            "line" : "S1"
+          },
+          {
+            "firstStation" : "Shang'an",
+            "secondStation" : "Qiaohuying",
+            "distance" : 1065,
+            "line" : "S1"
+          },
+          {
+            "firstStation" : "Qiaohuying",
+            "secondStation" : "Sidao Qiao",
+            "distance" : 834,
+            "line" : "S1"
+          },
+          {
+            "firstStation" : "Sidao Qiao",
+            "secondStation" : "Jin'an Qiao",
+            "distance" : 2710,
+            "line" : "S1"
+          },
+          {
+            "firstStation" : "Xiangshan",
+            "secondStation" : "Botanical Garden",
+            "distance" : 983,
+            "line" : "Xijiao"
+          },
+          {
+            "firstStation" : "Botanical Garden",
+            "secondStation" : "Wan'an",
+            "distance" : 1733,
+            "line" : "Xijiao"
+          },
+          {
+            "firstStation" : "Wan'an",
+            "secondStation" : "Chapeng",
+            "distance" : 1550,
+            "line" : "Xijiao"
+          },
+          {
+            "firstStation" : "Chapeng",
+            "secondStation" : "Summer Palace West Gate",
+            "distance" : 1505,
+            "line" : "Xijiao"
+          },
+          {
+            "firstStation" : "Summer Palace West Gate",
+            "secondStation" : "Bagou",
+            "distance" : 2922,
+            "line" : "Xijiao"
+          },
+          {
+            "firstStation" : "Dinghai Yuan",
+            "secondStation" : "Dinghai Yuan Xi (W)",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Dinghai Yuan Xi (W)",
+            "secondStation" : "Jinghai Yilu",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Jinghai Yilu",
+            "secondStation" : "Bejing Etrong International Exhibition & Convention Center",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Bejing Etrong International Exhibition & Convention Center",
+            "secondStation" : "Rongchang Dongjie",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Rongchang Dongjie",
+            "secondStation" : "Yizhuang Tongren",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Rongchang Dongjie",
+            "secondStation" : "Yizhuang Tongren",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Yizhuang Tongren",
+            "secondStation" : "Lujuan Dong (E)",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Lujuan Dong (E)",
+            "secondStation" : "Taihe Lu",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Taihe Lu",
+            "secondStation" : "Jiuhao Cun",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Jiuhao Cun",
+            "secondStation" : "Sihai Zhuang",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Sihai Zhuang",
+            "secondStation" : "Taihe Qiao Bei (N)",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Taihe Qiao Bei (N)",
+            "secondStation" : "Ruihe Zhuang",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Ruihe Zhuang",
+            "secondStation" : "Rongxing Jie",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Rongxing Jie",
+            "secondStation" : "",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Qu Zhuang",
+            "secondStation" : "Laoguan Li",
+            "distance" : 905,
+            "line" : "Yizhuang T1"
+          },
+          {
+            "firstStation" : "Dongzhi Men",
+            "secondStation" : "Sanyuan Qiao",
+            "distance" :3022,
+            "line" : "Capital Airport Express"
+          },
+          {
+            "firstStation" : "Sanyuan Qiao",
+            "secondStation" : "Terminal 2",
+            "distance" :20378,
+            "line" : "Capital Airport Express"
+          },
+          {
+            "firstStation" : "Terminal 2",
+            "secondStation" : "Terminal 3",
+            "distance" :7243,
+            "line" : "Capital Airport Express"
+          },
+          {
+            "firstStation" : "Terminal 3",
+            "secondStation" : "Sanyuan Qiao",
+            "distance" :18322,
+            "line" : "Capital Airport Express"
+          },
+          {
+            "firstStation" : "Caoqiao",
+            "secondStation" : "Daxing Xincheng",
+            "distance" :13028,
+            "line" : "Daxing Airport Express"
+          },
+          {
+            "firstStation" : "Daxing Xincheng",
+            "secondStation" : "Daxing Airport",
+            "distance" :25303,
+            "line" : "Daxing Airport Express"
+          }
+          
+
+
+
+      ]
+            
+}

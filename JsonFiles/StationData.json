@@ -1,0 +1,1469 @@
+{
+      "stations" : [
+          {
+              "name" : "Pingguo Yuan",
+              "line" : ["1"]
+          },
+          {
+              "name" : "Gucheng",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Bajiao Amusement Park",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Babaoshan",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Yuquan Lu",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Wukesong",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Wanshou Lu",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Gongzhufen",
+              "Line" : ["1", "10"]
+          },
+          {
+              "name" : "Military Museum",
+              "Line" : ["1", "9"]
+          },
+          {
+              "name" : "Muxidi",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Nanlishi Lu",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Fuxing Men",
+              "Line" : ["1", "2"]
+          },
+          {
+              "name" : "Xidan",
+              "Line" : ["1", "4"]
+          },
+          {
+              "name" : "Tian'anmen Xi (W)",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Tian'anmen Dong (E)",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Wangfujing",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Dongdan",
+              "Line" : ["1", "5"]
+          },
+          {
+              "name" : "Jianguo Men",
+              "Line" : ["1", "2"]
+          },
+          {
+              "name" : "Yong'an Li",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Guomao",
+              "Line" : ["1", "10"]
+          },
+          {
+              "name" : "Dawang Lu",
+              "Line" : ["1", "14E"]
+          },
+          {
+              "name" : "Sihui",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Sihui Dong (E)",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Gaobeidian",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Communication Univ. of China",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Shuang Qiao",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Guaanzhuang",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Bali Qiao",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Tongzhou Beiyuan",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Guoyuan",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Jiukeshu",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Liyuan",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Linheli",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Tu Qiao",
+              "Line" : ["1"]
+          },
+          {
+              "name" : "Huazhuang",
+              "Line" : ["1", "7"]
+          },
+          {
+              "name" : "Universal Resort",
+              "Line" : ["1", "7"]
+          },
+          {
+              "name" : "Xizhi Men",
+              "Line" : ["2", "4", "13"]
+          },
+          {
+              "name" : "Chegongzhuang",
+              "Line" : ["2", "6"]
+          },
+          {
+              "name" : "Fucheng Men",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Changchun Jie",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Xuanwu Men",
+              "Line" : ["2", "4"]
+          },
+          {
+              "name" : "Heping Men",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Qian Men",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Chongwen Men",
+              "Line" : ["2", "5"]
+          },
+          {
+              "name" : "Beijing Railway Station",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Chaoyang Men",
+              "Line" : ["2", "6"]
+          },
+          {
+              "name" : "Dongsi Shitiao",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Dongzhi Men",
+              "Line" : ["2", "13", "Capital Airport Express"]
+          },
+          {
+              "name" : "Yonghegong Lama Temple",
+              "Line" : ["2", "5"]
+          },
+          {
+              "name" : "Anding Men",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Gulou Dajie",
+              "Line" : ["2", "8N"]
+          },
+          {
+              "name" : "Jishui Tan",
+              "Line" : ["2"]
+          },
+          {
+              "name" : "Anheqiao Bei (N)",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Beigongmen",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Xi Yuan",
+              "Line" : ["4",  "16"]
+          },
+          {
+              "name" : "Yuanmingyuan Park",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Peking Univ. East Gate",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Zhongguancun",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Haidian Huangzhuang",
+              "Line" : ["4", "10"]
+          },
+          {
+              "name" : "Renmin Univ.",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Weigongcun",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "National Library",
+              "Line" : ["4", "9", "16"]
+          },
+          {
+              "name" : "Beijing Zoo",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Xinjie Kou",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Ping'an Li",
+              "Line" : ["4", "6"]
+          },
+          {
+              "name" : "Xisi",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Lingjing Hutong",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Caishi Kou",
+              "Line" : ["4", "7"]
+          },
+          {
+              "name" : "Taoranting",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Beijing South Railway Station",
+              "Line" : ["4", "14E"]
+          },
+          {
+              "name" : "Majiapu",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Jiaomen Xi (W)",
+              "Line" : ["4", "10"]
+          },
+          {
+              "name" : "Gongyi Xiqiao",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Xin Gong",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Xihong Men",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Gaomidian Bei (N)",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Gaomidian Nan (S)",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Zaoyuan",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Qingyuan Lu",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Huangcun Xidajie",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Huangcun Railway Station",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Yihezhuang",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Biomedical Base",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Tiangong Yuan",
+              "Line" : ["4"]
+          },
+          {
+              "name" : "Tiantongyuan Bei (N)",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Tiantong Yuan",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Tiantongyuan Nan (S)",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Lishui Qiao",
+              "Line" : ["5", "13"]
+          },
+          {
+              "name" : "Lishuiqiao Nan (S)",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Beiyuanlu Bei (N)",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Datunlu Dong (E)",
+              "Line" : ["5", "15"]
+          },
+          {
+              "name" : "Huixin Xijie Beikou",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Huixin Xijie Nankou",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Heping Xiqiao",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Hepingli Beijie",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Beixinqiao",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Zhangzizhong Lu",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Dongsi",
+              "Line" : ["5", "6"]
+          },
+          {
+              "name" : "Dengshi Kou",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Ciqi Kou",
+              "Line" : ["5", "7"]
+          },
+          {
+              "name" : "Temple of Heaven East Gate",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Puhuangyu",
+              "Line" : ["5", "14E"]
+          },
+          {
+              "name" : "Liujiayao",
+              "Line" : ["5"]
+          },
+          {
+              "name" : "Songjiazhuang",
+              "Line" : ["5", "10", "Yizhuang"]
+          },
+          {
+              "name" : "Jin'an Qiao",
+              "Line" : ["6", "S1"]
+          },
+          {
+              "name" : "Yangzhuang",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Xihuangcun",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Liaogongzhuang",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Tiancun",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Haidian Wuluju",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Cishou Si",
+              "Line" : ["6", "10"]
+          },
+          {
+              "name" : "Huayuan Qiao",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Baishiqiao Nan (S)",
+              "Line" : ["6", "9"]
+          },
+          {
+              "name" : "Chegongzhuang Xi (W)",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Beihai Bei (N)",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Nanluogu Xiang",
+              "Line" : ["6", "8N"]
+          },
+          {
+              "name" : "Dongdaqiao",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Hujialou",
+              "Line" : ["6", "10"]
+          },
+          {
+              "name" : "Jintai Lu",
+              "Line" : ["6", "14E"]
+          },
+          {
+              "name" : "Shilipu",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Qingnian Lu",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Dalianpo",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Huangqu",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Changying",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Caofang",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Wuzi Xueyuan Lu",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Tongzhou Beiguan",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Tongyuan Men",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Beiyunhe Xi (W)",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Beiyunhe Dong (E)",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Haojia Fu",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Dongxia Yuan",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Lucheng",
+              "Line" : ["6"]
+          },
+          {
+              "name" : "Beijing West Railway Station",
+              "Line" : ["7", "9"]
+          },
+          {
+              "name" : "Wanzi",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Daguanying",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Guang'anmen Nei",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Hufangqiao",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Zhushi Kou",
+              "Line" : ["7", "8S"]
+          },
+          {
+              "name" : "Qiaowan",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Guangqumen Nei",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Guangqumen Wai",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Shuangjing",
+              "Line" : ["7", "10"]
+          },
+          {
+              "name" : "Jiulongshan",
+              "Line" : ["7", "14E"]
+          },
+          {
+              "name" : "Dajiaoting",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Baiziwan",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Huagong",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Nanlouzi Zhuang",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Happy Valley",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Fatou",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Shuanghe",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Jiaohua Chang",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Huangchang",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Langxinzhuang",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Heizhuanghu",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Wansheng Xi (W)",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Wansheng Dong (E)",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Qunfang",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Gaoloujin",
+              "Line" : ["7"]
+          },
+          {
+              "name" : "Zhuxinzhuang",
+              "Line" : ["8N", "Changping"]
+          },
+          {
+              "name" : "Yuzhi Lu",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Pingxi Fu",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Huilongguan Dogdajie",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Huoying",
+              "Line" : ["8N", "13"]
+          },
+          {
+              "name" : "Yuxin",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Xixiao Kou",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Yongtaizhuang",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Lincui Qiao",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Forest Part South Gate",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Olympic Park",
+              "Line" : ["8N", "15"]
+          },
+          {
+              "name" : "Olympic Sports Center",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Beitucheng",
+              "Line" : ["8N", "10"]
+          },
+          {
+              "name" : "Anhua Qiao",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Andeli Beijie",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Shichahai",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "National Art Museum",
+              "Line" : ["8N"]
+          },
+          {
+              "name" : "Tianqiao",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Yongdingmen Wai",
+              "Line" : ["8S", "14E"]
+          },
+          {
+              "name" : "Muxi Yuan",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Haihutun",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Dahongmen Nan (S)",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Heyi",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Donggaodi",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Huojian Wanyuan",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Wufutang",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Demao",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Yinghai",
+              "Line" : ["8S"]
+          },
+          {
+              "name" : "Baiduizi",
+              "Line" : ["9"]
+          },
+          {
+              "name" : "Liuliqiao Dong (E)",
+              "Line" : ["9"]
+          },
+          {
+              "name" : "Liuli Qiao",
+              "Line" : ["9", "10"]
+          },
+          {
+              "name" : "Qilizhuang",
+              "Line" : ["9", "14W"]
+          },
+          {
+              "name" : "Fengtai Dongdajie",
+              "Line" : ["9"]
+          },
+          {
+              "name" : "Fengtai Nanlu",
+              "Line" : ["9"]
+          },
+          {
+              "name" : "Keyi Lu",
+              "Line" : ["9"]
+          },
+          {
+              "name" : "Fengtai Science Park",
+              "Line" : ["9"]
+          },
+          {
+              "name" : "Guogongzhuang",
+              "Line" : ["9", "Fangshan"]
+          },
+          {
+              "name" : "Bagou",
+              "Line" : ["10", "Xijiao"]
+          },
+          {
+              "name" : "Suzhou Jie",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Zhichun Li",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Zhichun Lu",
+              "Line" : ["10", "13"]
+          },
+          {
+              "name" : "Xitucheng",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Mudan Yuan",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Jiande Men",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Anzhen Men",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Shaoyaoju",
+              "Line" : ["10", "13"]
+          },
+          {
+              "name" : "Taiyanggong",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Sanyuan Qiao",
+              "Line" : ["10", "Capital Airport Express"]
+          },
+          {
+              "name" : "Liangma Qiao",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Agricultural Exhibition Center",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Tuanjiehu",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Jintai Xizhao",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Jinsong",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Panjia Yuan",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Shilihe",
+              "Line" : ["10", "14E"]
+          },
+          {
+              "name" : "Fenzhong Si",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Chengshou Si",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Shiliuzhuang",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Dahongmen",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Jiaomen Dong (E)",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Caoqiao",
+              "Line" : ["10", "Daxing Airport Express"]
+          },
+          {
+              "name" : "Jijiamiao",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Shoujingmao",
+              "Line" : ["10", "Fangshan"]
+          },
+          {
+              "name" : "Fengtai Railway Station",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Niwa",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Xiju",
+              "Line" : ["10", "14W"]
+          },
+          {
+              "name" : "Lianhua Qiao",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Xidiaoyutai",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Chedaogou",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Changchun Qiao",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Huoqiying",
+              "Line" : ["10"]
+          },
+          {
+              "name" : "Dazhong Si",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Wudao Kou",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Shangdi",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Qinghe Railway Station",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Xi'erqi",
+              "Line" : ["13", "Changping"]
+          },
+          {
+              "name" : "Longze",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Huilong Guan",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Bei Yuan",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Wangjing Xi (W)",
+              "Line" : ["13", "15"]
+          },
+          {
+              "name" : "Guangxi Men",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Liufang",
+              "Line" : ["13"]
+          },
+          {
+              "name" : "Zhangguozhuang",
+              "Line" : ["14W"]
+          },
+          {
+              "name" : "Garden Expo Park",
+              "Line" : ["14W"]
+          },
+          {
+              "name" : "Dawayao",
+              "Line" : ["14W"]
+          },
+          {
+              "name" : "Guozhuangzi",
+              "Line" : ["14W"]
+          },
+          {
+              "name" : "Dajing",
+              "Line" : ["14W"]
+          },
+          {
+              "name" : "Beijing South Railway Station",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Taoran Qiao",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Jingtai",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Fangzhuang",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Beijing Univ. of Tech. West Gate",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Pingle Yuan",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Chaoyang Park",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Zaoying",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Dongfeng Beiqiao",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Jiangtai",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Gaojia Yuan",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Wangjing Nan (S)",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Futong",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Wangjing",
+              "Line" : ["14E", "15"]
+          },
+          {
+              "name" : "Donghuqu",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Laiguangying",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Shan'gezhuang",
+              "Line" : ["14E"]
+          },
+          {
+              "name" : "Qinghua Donglu Xikou",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Liudao Kou",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Beishatan",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Anli Lu",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Guanzhuang",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Wangjing Dong (E)",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Cuigezhuang",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Maquanying",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Sunhe",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "China Int'l Exhibition Center",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Hualikan",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Houshayu",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Nanfaxin",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Shimen",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Shunyi",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Fengbo",
+              "Line" : ["15"]
+          },
+          {
+              "name" : "Bei'anhe",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Wenyang Lu",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Daoxianghu Lu",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Tundian",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Yongfeng",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Yongfeng Nan (S)",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Xibeiwang",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Malianwa",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Nongda Nanlu",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Wangquanhe Qiao",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Suzhou Qiao",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Wanshou Si",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Ganjia Kou",
+              "Line" : ["16"]
+          },
+          {
+              "name" : "Yancun Dong (E)",
+              "Line" : ["Fangshan", "Yanfang"]
+          },
+          {
+              "name" : "Suzhuang",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Liangxiang Nanguan",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Liangxiang Univ. Town West",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Liangxiang Univ. Town",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Liangxiang Univ. Town North",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Guangyang Cheng",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Libafang",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Changyang",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Daotian",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Dabaotai",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Baipengyao",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Huaxiang Dongqiao",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Dongguantou Nan (S)",
+              "Line" : ["Fangshan"]
+          },
+          {
+              "name" : "Changping Xishankou",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Ming Tombs",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Changping",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Changping Dongguan",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Beishaowa",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Nanshao",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Shahe Univ. Park",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Shahe",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Gonghua Cheng",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Life Science Park",
+              "Line" : ["Changping"]
+          },
+          {
+              "name" : "Xiaocun",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Xiaohong Men",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Jiu Gong",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Yizhuang Qiao",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Yizhuang Culture Park",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Wanyuan Jie",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Rongjing Dongjie",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Rongchang Dongjie",
+              "Line" : ["Yizhuang", "Yizhuang T1"]
+          },
+          {
+              "name" : "Tongji Nanlu",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Jinghai Lu",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Ciqu Nan (S)",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Ciqu",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Yizhuang Railway Station",
+              "Line" : ["Yizhuang"]
+          },
+          {
+              "name" : "Yanshan",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Fangshan Chengguan",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Raole Fu",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Magezhuang",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Dashihe Dong (E)",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Xingcheng",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Yancun",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Zicaowu",
+              "Line" : ["Yanfang"]
+          },
+          {
+              "name" : "Shichang",
+              "Line" : ["S1"]
+          },
+          {
+              "name" : "Xiaoyuan",
+              "Line" : ["S1"]
+          },
+          {
+              "name" : "Liyuanzhuang",
+              "Line" : ["S1"]
+          },
+          {
+              "name" : "Shang'an",
+              "Line" : ["S1"]
+          },
+          {
+              "name" : "Qiaohuying",
+              "Line" : ["S1"]
+          },
+          {
+              "name" : "Sidao Qiao",
+              "Line" : ["S1"]
+          },
+          {
+              "name" : "Xiangshan",
+              "Line" : ["Xijiao"]
+          },
+          {
+              "name" : "Botanical Garden",
+              "Line" : ["Xijiao"]
+          },
+          {
+              "name" : "Wan'an",
+              "Line" : ["Xijiao"]
+          },
+          {
+              "name" : "Chapeng",
+              "Line" : ["Xijiao"]
+          },
+          {
+              "name" : "Summer Palace West Gate",
+              "Line" : ["Xijiao"]
+          },
+          {
+              "name" : "Dinghai Yuan",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Dinghai Yuan Xi (W)",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Jinghai Yilu",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Bejing Etrong International Exhibition & Convention Center",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Yizhuang Tongren",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Lujuan Dong (E)",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Taihe Lu",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Jiuhao Cun",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Sihai Zhuang",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Taihe Qiao Bei (N)",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Ruihe Zhuang",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Rongxing Jie",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Qu Zhuang",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Laoguan Li",
+              "Line" : ["Yizhuang T1"]
+          },
+          {
+              "name" : "Terminal 2",
+              "Line" : ["Capital Airport Express"]
+          },
+          {
+              "name" : "Terminal 3",
+              "Line" : ["Capital Airport Express"]
+          },
+          {
+              "name" : "Daxing Xincheng",
+              "Line" : ["Daxing Airport Express"]
+          },
+          {
+              "name" : "Daxing Airport",
+              "Line" : ["Daxing Airport Express"]
+          }
+      ]
+    
+  }
