@@ -25,15 +25,12 @@ python amalgamate.py
 ```
 then you can use the jsoncpp parser to read json files in the project.
 
-To compile our code, run:
+To build and compile the code, run:
 ```
-make
+cd build
+mingw32-make.exe
 ```
-under the root directory.
-To run the executable, type in:
-```
-./cs_final
-```
+then press F5 for code running
 
 The program will ask you to enter the name of starting station and the destination station. For example,  **Gucheng** and **Qian Men** can be used for station names.
 The program will the ask you to choose which method to create a path.
